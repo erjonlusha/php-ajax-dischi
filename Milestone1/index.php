@@ -43,4 +43,4 @@ include __DIR__ . '/vars.php';
         <?php }
     ?></div>    
 </body>
-</html>http://localhost:8088/php-ajax-dischi/database.php
+</html>
