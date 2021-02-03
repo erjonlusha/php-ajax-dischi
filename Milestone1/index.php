@@ -23,7 +23,7 @@ include __DIR__ . '/vars.php';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ajax-dischi</title>
+    <title>PHP-dischi</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -43,4 +43,4 @@ include __DIR__ . '/vars.php';
         <?php }
     ?></div>    
 </body>
-</html>
+</html>http://localhost:8088/php-ajax-dischi/database.php
